@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="forgy_markerA3" size="0.420000 0.296603" />
+    <ImageTarget name="forgy_marker_a4" size="0.297000 0.209740" />
+  </Tracking>
+</QCARConfig>
